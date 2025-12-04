@@ -21,3 +21,4 @@ This sub-model is intended to predict environmental and economic impacts of a co
 
 <b>Auxiliary files:</b> params.py, LCA_model.py   
 
+This file takes parameters and results from LCA_model.py to select "best-case" parameters dependent on user-selected weights.
